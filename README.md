@@ -1,8 +1,6 @@
 # Social Networking Website
-This is a social media platform for software developers and programmers of all skill levels to connect and interact with one another.
+This is a social media platform for everyone of all skill levels to connect and interact with one another.
 
-## Motivation
-At my most recent co-op, the team I worked on was using a MERN JavaScript development stack. As I was relatively new to software development, I wanted to do a project (similar to what I was working with at my co-op placement) to help get introduced to web development. 
 
 ## Languages, Frameworks, and Packages
     Languages:
@@ -41,5 +39,4 @@ At my most recent co-op, the team I worked on was using a MERN JavaScript develo
     Database:
         Database          - MongoDB
         
-## Getting Started
-This website has currently been deployed to Heroku. To visit the deployed webiste, click this [link](https://social-media-platform.herokuapp.com/).
+
